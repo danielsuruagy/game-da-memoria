@@ -7,7 +7,6 @@ Um jogo da memória interativo e colorido desenvolvido com **HTML**, **CSS** e *
 - **HTML5** Estrutura semântica do jogo
 - **CSS3**   
 - **JavaScript**
-  
 
 ## 🚀 Funcionalidades
 
