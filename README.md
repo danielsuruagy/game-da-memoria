@@ -4,7 +4,7 @@ Um jogo da memória interativo e colorido desenvolvido com **HTML**, **CSS** e *
 
 ## 🖥️ Tecnologias Utilizadas
 
-- **HTML5** Estrutura semântica do jogo
+- **HTML5**
 - **CSS3**   
 - **JavaScript**
 
